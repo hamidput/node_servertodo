@@ -6,7 +6,7 @@
  <sub>  CREATE TABLE tasks ( <br>
   id INT AUTO_INCREMENT PRIMARY KEY, <br>
   task_name VARCHAR(255) NOT NULL, <br>
-  completed TINYINT NOT NULL DEFAULT 0 <br>
+  completed boolean not null default 0 <br>
 ); </sub>
 
 # node_servertodo
