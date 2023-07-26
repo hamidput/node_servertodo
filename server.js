@@ -8,9 +8,9 @@ const port = 3000;
 
 // MySQL connection configuration
 const dbConfig = {
-  host: 'your-mysql-host',
-  user: 'your-mysql-username',
-  password: 'your-mysql-password',
+  host: 'localhost',
+  user: 'harshit',
+  password: 'Adm!n@123',
   database: 'todo_list_db',
 };
 
